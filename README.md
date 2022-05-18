@@ -1,4 +1,5 @@
-RiWAClient_GB
+<h1>RiWAClient_ElectroGrid</h1>
+
 This Repo contains the RiWA Client for the Technician Service Created in one of the previous Repos (ElectroGrid) which contains a set of Jersey 1.19 Web Services developed according to the Microservices Architecture.
 
 Used Technologies:

@@ -4,13 +4,14 @@ This Repo contains the RiWA Client for the Technician Service Created in one of 
 
 Used Technologies:
 
-Jersey Client API
-jQuery
-AJAX
-JSP and Servlets
-JSON
-Clone Requirements:
+Jersey Client API<br>
+jQuery<br>
+AJAX<br>
+JSP and Servlets<br>
+JSON<br>
 
-Eclipse (one of the versions which supports JRE 1.8 or above)
-Maven
+Clone Requirements:<br>
+
+Eclipse (one of the versions which supports JRE 1.8 or above)<br>
+Maven<br>
 Apache Tomcat Server 9
